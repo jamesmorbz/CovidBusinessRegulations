@@ -1,0 +1,34 @@
+companyDetails:
+  name: "Example Company Name"
+  link: "http://example.com"
+  
+footer:
+  sections:
+    - id: regulations
+      title: "Covid Business Regulations"
+      content: "The Covid Business Regulation app provides insights and guidance based on the latest government regulations to help you navigate the pandemic's impact on business operations. 
+                Stay updated with news, monitor developments with quick-stats, set reminders for important updates, and search through regulations with ease.
+                While we strive to provide accurate and timely information, please ensure you consult with a legal professional for official advice.
+                Our service is not liable for any legal wrongdoing or inaccuracies in the regulatory data."
+    - id: links
+      title: "Useful Links"
+      links:
+        - text: "Government Website (Gov.UK)"
+          href: "#!"
+        - text: "Company Policy"
+          href: "#!"
+        - text: "Link 3"
+          href: "#!"
+        - text: "Link 4"
+          href: "#!"
+    - id: contact
+      title: "Contact us"
+      links:
+        - text: "Reach out to your Compliance Officer"
+          href: "#!"
+        - text: "Give us Feedback"
+          href: "#!"
+        - text: "Link 3"
+          href: "#!"
+        - text: "Link 4"
+          href: "#!"
